@@ -4,4 +4,5 @@ var a = 6;
 
 f = m * a;
 
-console.log (" The force is " + f + "N");
+console.log(" The force is " + f + "N");
+//>>>"The force is 12N"
